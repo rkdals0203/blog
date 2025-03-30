@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "blog-ocbz71og9-rkdals0203s-projects.vercel.app",
+    baseUrl: "blog-git-v4-rkdals0203s-projects.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
